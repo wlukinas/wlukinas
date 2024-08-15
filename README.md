@@ -1,2 +1,4 @@
-- 👋 Hi, I’m @wlukinas
-- 👀 I’m interested in python, css, html, c++
+- olá,
+- meu nome e Lucas,
+- estou interessado em aprender python, rust , CPP entre outras tecnologias 
+🧠🫀
