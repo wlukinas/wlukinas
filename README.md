@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @wlukinas
-- 👀 I’m interested in python, css, html, c++
+-- olá, meu nome é lucas
+-- sou brasileiro e tenho 14 anos
+-- estudo programação com python, HTML, CSS, javascript
