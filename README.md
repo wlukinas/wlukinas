@@ -1,3 +1,1 @@
--- olá, meu nome é lucas
--- sou brasileiro e tenho 14 anos
--- estudo programação com python, HTML, CSS, javascript
+
